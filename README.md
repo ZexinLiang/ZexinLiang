@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rick,HUSTer在读,STI控制组
-- 👀 主要擅长嵌入式开发、电路设计、传统控制、传统视觉、FPGA开发以及Soc设计等
-- 🌱 感兴趣的方向有：单片机类（stm,wch）、电源设计、OPENCV、RISC_V
-- 💞️ 正在寻找能够一起交流上述方面的伙伴
-- 📫 联系我 QQ(工作):430657051
+- 👋 Hi, I’m Rick,HUSTer reads,STI Kontrole group
+- 👀 Specialize in embedded development, circuit design, traditional control, traditional vision, FPGA development and SoC design
+- 🌱 The areas of interest are: microcontroller (STM, WCH), power supply design, OpenCV, RISC-V
+- 💞️ Now looking for partners who can share the above aspects together
+- 📫 Cmntact me QQ(working):430657051
 
 <!---
 ZexinLiang/ZexinLiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
